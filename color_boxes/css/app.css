@@ -1,0 +1,109 @@
+.header {
+	background-color: #f4f4f4;
+	font-size: 30px;
+	text-align: left;
+}
+.red {
+	background-color: #ff0000;
+	font-size: 30px;
+	color: white;
+	height: 100px;
+}
+
+.grey {
+	background-color: #999999;
+	color: white;
+	font-size: 30px;
+	height: 100px;
+}
+.darkgrey {
+	background-color: #666666;
+	color: white;
+	font-size: 30px;
+	height: 100px;
+}
+
+.darkergrey {
+	background-color: #333333;
+	color: white;
+	font-size: 30px;
+	height: 100px;
+}
+.gold {
+	background-color: #cfa339;
+	color: white;
+	font-size: 30px;
+	height: 120px;
+}
+
+.darkpurple {
+	background-color: #55148c;
+	color: white;
+	font-size: 30px;
+	height: 120px;
+}
+
+.teal {
+	background-color: #376d6a;
+	color: white;
+	font-size: 30px;
+	height: 120px;
+}
+
+.black {
+	background-color: #000000;
+	color: white;
+	font-size: 30px;
+	height: 100px;
+}
+
+.green {
+	background-color: #008000;
+	color: white;
+	font-size: 30px;
+	height: 100px;
+}
+.pink {
+	background-color: #ff66cc;
+	color: white;
+	font-size: 30px;
+	height: 100px;
+}
+
+.brown {
+	background-color: #7b3f00;
+	color: white;
+	font-size: 30px;
+	height: 100px;
+}
+.orange {
+	background-color: #FF5733;
+	color: white;
+	font-size: 30px;
+	height: 225px;
+}
+
+.blue {
+	background-color: #33A2FF;
+	color: white;
+	font-size: 30px;
+	height: 225px;
+}
+.violet {
+	background-color: #5E1769;
+	color: white;
+	font-size: 30px;
+	height: 225px;
+}
+.dragon {
+	background-color: #775F66;
+	color: white;
+	font-size: 30px;
+	height: 225px;
+}
+.haze {
+	background-color: #93A496;
+	color: white;
+	font-size: 30px;
+	height: 225px;
+}
