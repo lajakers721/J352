@@ -1,0 +1,42 @@
+body {
+  background-color: #0D5B81;
+  color: white;
+   font-family: "Roboto Condensed", sans-serif;
+    font-optical-sizing: auto;
+    font-style: normal;
+}
+
+h1 {
+  font-family: "Roboto Condensed", sans-serif;
+  font-optical-sizing: auto;
+  font-style: normal;
+}
+
+.pquote {
+    float: right;
+    width: 350px;
+    background-color: #5F5219;
+    font-weight: bold;
+    padding: 12px;
+    margin: 0 13px 0px 12px;
+    font-family: "Roboto Condensed", sans-serif;
+    font-optical-sizing: auto;
+    font-style: normal;
+}
+
+blockquote {
+    margin: 0;
+}
+
+subhead {
+  font-weight: bold;
+  font-size: 25px;
+}
+
+.caption {
+  font-size: 12px;
+}
+
+a {
+  color: #7E6BA0;
+}
