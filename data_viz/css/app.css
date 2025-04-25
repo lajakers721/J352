@@ -1,0 +1,27 @@
+body {
+	background: #000000;
+	color: white;
+}
+
+h1 {
+	font-family: "Tagesschrift", system-ui;
+  	font-weight: 400;
+  	font-style: normal;
+  	align: center;
+}
+
+subhead {
+	align: center;
+	font-family: "Tagesschrift", system-ui;
+  	font-weight: 400;
+  	font-style: normal;
+  	font-size: 20px;
+  	font-style:italic;
+}
+
+p {
+	align: center;
+	font-family: "Tagesschrift", system-ui;
+  	font-weight: 400;
+  	font-style: normal;
+}
