@@ -1,0 +1,73 @@
+ body {
+  font-family: "Host Grotesk", sans-serif;
+  font-optical-sizing: auto;
+ font-style: normal;
+}
+
+
+h1 {
+	color:#white;
+font-family: "Host Grotesk", sans-serif;
+  font-optical-sizing: auto;
+ font-style: normal;
+ font-weight:900;
+ font-size:3rem;
+}
+
+h5 {
+	color:#white;
+	font-family: "Host Grotesk", sans-serif;
+  font-optical-sizing: auto;
+ font-style: normal;
+ font-weight:200;
+
+}
+
+a {
+	color:#42A7E1;
+}
+
+a:hover {
+	color:#0074E1;
+}
+.titlebar {
+	text-align:center;
+	color:white;
+}
+
+.picture {
+	text-align:center;
+	margin-bottom:50px;
+}
+
+.photo {
+	border-radius:80%;
+}
+
+.resume {
+	text-align:center;
+	color:#000000;
+	background-color:#ffffff;
+	border-radius:20px;
+}
+
+.section {
+	text-align:center;
+	color:#000000;
+	font-weight:bold;
+	font-size:30px;
+}
+
+.subhead {
+	text-align:center;
+	color:#000000;
+	font-size:1.5rem;
+	font-weight: bold;
+}
+
+.textresume {
+	text-align:center;
+	color:#000000;
+	font-size:1rem;
+}
+
