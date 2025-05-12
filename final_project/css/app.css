@@ -1,0 +1,52 @@
+body {
+  font-family: "Merriweather", serif;
+  font-optical-sizing: auto;
+  font-style: normal;
+  font-variation-settings:"wdth" 100;
+  background-color: black;
+}
+
+h1 {
+    font-family: "Merriweather", serif;
+  font-optical-sizing: auto;
+  font-style: normal;
+  font-variation-settings:"wdth" 100;
+  text-align: center;
+}
+
+.background {
+  background-color: #3b61c4;
+  padding-left: 12px;
+  padding-right: 12px;
+  color: white;
+}
+
+blockquote{
+  color: #11eed0;
+}
+
+a:hover {
+  color:hotpink;
+}
+
+.link {
+  color: hotpink;
+}
+
+.pull {
+  color: white;
+  background-color: black;
+  padding: 5px;
+  font-size: 15px;
+}
+
+.caption {
+  padding-left: 50px;
+  padding-right: 50px;
+  font-size: 12px;
+}
+
+.byline {
+  text-align: center;
+  font-size: 25px;
+}
